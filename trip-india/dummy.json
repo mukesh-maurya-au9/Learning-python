@@ -1,0 +1,113 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "locality": "Shahibabad",
+      "city": "Ghaziabad",
+      "state": "Utter-pradesh"
+    },
+    {
+      "id": 2,
+      "locality": "Noida",
+      "city": "Gautam-Buddh-Nagar",
+      "state": "Utter-pradesh"
+    },
+    {
+      "id": 3,
+      "locality": "Mirzapur",
+      "city": "Mirzapur",
+      "state": "Utter-pradesh"
+    },
+    {
+      "id": 4,
+      "locality": "Bansgaon",
+      "city": "Gorakhpur and Hariyana",
+      "state": "Utter-pradesh"
+    },
+    {
+      "id": 7,
+      "locality": "Gaya",
+      "city": "Gaya",
+      "state": "Bihar"
+    }
+  ],
+  "bookings": [
+    {},
+    {
+      "id": 353,
+      "hotel_name": "Snow Bliss",
+      "Customer_Name": "sudha",
+      "Phone_Number": "7388815931"
+    },
+    {
+      "id": 718,
+      "hotel_name": "Snow Bliss",
+      "Customer_Name": "Mukesh",
+      "Phone_Number": "101010"
+    },
+    {
+      "id": 364,
+      "hotel_name": "Snow Bliss",
+      "Customer_Name": "qeeeq",
+      "Phone_Number": "252"
+    },
+    {
+      "id": 763,
+      "hotel_name": "DoubleTree by Hilton",
+      "Customer_Name": "eeeqq",
+      "Phone_Number": "123",
+      "status": "Pending"
+    },
+    {
+      "id": 155,
+      "hotel_name": "DoubleTree by Hilton",
+      "Customer_Name": "abhinandan vardhnman",
+      "Phone_Number": "7101010",
+      "status": "Pending"
+    },
+    {
+      "id": 492,
+      "hotel_name": "Amanora The Fern Hotels",
+      "Customer_Name": "Arjun Kushwaha",
+      "Phone_Number": "7523975776",
+      "status": "Pending"
+    },
+    {
+      "id": 479,
+      "hotel_name": "Snow Bliss",
+      "Customer_Name": "",
+      "Phone_Number": "",
+      "status": "Pending"
+    },
+    {
+      "id": 297,
+      "hotel_name": "DoubleTree by Hilton",
+      "Customer_Name": "Mukeshraj maurya",
+      "Phone_Number": "8585858",
+      "status": "Pending"
+    },
+    {
+      "id": 484,
+      "hotel_name": "Hometel Chandigarh",
+      "Customer_Name": "Anuradha",
+      "Phone_Number": "7878454688",
+      "status": "Pending"
+    }
+  ],
+  "userdata": [
+    {
+      "id": 1,
+      "name": "mukesh",
+      "email": "mukesh@gmail.com",
+      "password": "123456",
+      "role": "Admin"
+    },
+    {
+      "id": 105,
+      "name": "rajnikant",
+      "email": "rajnikant@gmail.com",
+      "password": "123456",
+      "role":"User"
+    }
+  ]
+}
